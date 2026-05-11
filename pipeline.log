@@ -1,0 +1,18 @@
+2025-11-06 20:04:33,849 | INFO | __main__ | Pipeline started with input_file: C:/Users/jalal/Documents/3602767_sentiment_pipeline/data/sample_stream_large.jsonl
+2025-11-06 20:04:36,932 | INFO | __main__ | Comments loaded
+2025-11-06 20:04:36,937 | INFO | __main__ | Cleaned DataFrame Null Values
+2025-11-06 20:04:36,963 | INFO | __main__ | Saved csv results into: C:/Users/jalal/Documents/3602767_sentiment_pipeline//output/sentiment_results.csv
+2025-11-06 20:04:37,337 | INFO | __main__ | Plot saved to: C:/Users/jalal/Documents/3602767_sentiment_pipeline/output/plots/Sentiment_Distribution_Graph.png
+2025-11-06 20:04:37,337 | INFO | __main__ | Pipeline completed Successfully
+2025-11-06 20:11:01,681 | INFO | __main__ | Pipeline started with input_file: C:/Users/jalal/Documents/3602767_sentiment_pipeline/data/sample_stream_large.jsonl
+2025-11-06 20:11:05,085 | INFO | __main__ | Comments loaded
+2025-11-06 20:11:05,115 | INFO | __main__ | Cleaned DataFrame Null Values
+2025-11-06 20:11:05,170 | INFO | __main__ | Saved csv results into: C:/Users/jalal/Documents/3602767_sentiment_pipeline//output/sentiment_results.csv
+2025-11-06 20:11:05,689 | INFO | __main__ | Plot saved to: C:/Users/jalal/Documents/3602767_sentiment_pipeline/output/plots/Sentiment_Distribution_Graph.png
+2025-11-06 20:11:05,690 | INFO | __main__ | Pipeline completed Successfully
+2025-11-06 20:11:09,280 | INFO | __main__ | Pipeline started with input_file: C:/Users/jalal/Documents/3602767_sentiment_pipeline/data/sample_stream_large.jsonl
+2025-11-06 20:11:12,442 | INFO | __main__ | Comments loaded
+2025-11-06 20:11:12,444 | INFO | __main__ | Cleaned DataFrame Null Values
+2025-11-06 20:11:12,467 | INFO | __main__ | Saved csv results into: C:/Users/jalal/Documents/3602767_sentiment_pipeline//output/sentiment_results.csv
+2025-11-06 20:11:12,712 | INFO | __main__ | Plot saved to: C:/Users/jalal/Documents/3602767_sentiment_pipeline/output/plots/Sentiment_Distribution_Graph.png
+2025-11-06 20:11:12,712 | INFO | __main__ | Pipeline completed Successfully
