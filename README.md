@@ -147,10 +147,6 @@ Each script is modular and can be imported or reused in other projects.
 - CSV: `output/sentiment_results.csv` with VADER scores (positive, negative, neutral) and compound sentiment per comment.  
 - Visualisations: PNG plots saved under `output/plots/`.  
 
-```markdown
-
-```
-
 ## Troubleshooting
 
 If you run into issues:
